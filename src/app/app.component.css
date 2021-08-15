@@ -1,0 +1,82 @@
+.p0{
+    padding: 0;
+}
+.logo{
+    padding:4px 0px 5px 0px;
+}
+.bg_m{
+    margin-top: 10px;
+    background-color: #d0cece;
+}
+.txthead{
+    text-align: center;
+    padding-top: 20px; 
+    background-color: #d0cece;
+    font-weight: 600;
+}
+.txthead_1{
+    text-align: center;
+    background-color: #ffe699;
+    margin-bottom: 0;
+    color: rgb(85, 83, 83);
+    font-size: 17px;
+    font-family: sans-serif;
+    border:solid #100f0f 2px;
+      
+}
+
+.textboxes{
+     width: 100%;
+    border-top: unset;
+   border-right: unset;   
+    outline: none; 
+}
+.textboxes_1{
+    border-top:0px;
+    border-bottom:1px solid black;
+    
+    
+}
+.textboxes_2{    
+    
+    border-bottom:unset;  
+    
+}
+.bgclr_1{
+    background-color:#bdd7ee;    
+}
+
+.bgclr_1_w{
+    width: 100%;
+    height: 100%;
+}
+.brdr{
+    border: solid black 2px;
+    padding: 10px;     
+    
+}
+.brdr_b{
+    border: solid #bdd7ee 3px;
+    width: 100%;
+}
+.brdr_l{
+border-left: solid black 2px;
+border-right: solid black 2px;
+}
+.brdr_r{
+    border-right: solid black 2px;
+}
+.lbbgclr{
+    background-color: #ffe699;
+   
+}
+.txtlogin{
+    text-align: center;
+    padding: 0px;
+}
+.bge_cl{
+    background-color: #d0cece;
+}
+.lblclr a{
+    color: rgb(88, 88, 88);
+}
